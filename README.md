@@ -18,6 +18,7 @@
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
         <li>Python</li>
+        <li>Jupyter Notebook</li>
         <li>Biblioteca numpy</li>
         <li>Biblioteca pandas</li>
         <li>Biblioteca seaborn</li>
@@ -33,6 +34,7 @@
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
         <li>Python</li>
+        <li>Jupyter Notebook</li>
         <li>Biblioteca numpy</li>
         <li>Biblioteca matplotlib</li>
         <li>Biblioteca tensorflow</li>
@@ -48,6 +50,7 @@
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
         <li>Python</li>
+        <li>Jupyter Notebook</li>
         <li>Biblioteca numpy</li>
         <li>Biblioteca pandas</li>
         <li>Biblioteca seaborn</li>
@@ -65,6 +68,7 @@
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
         <li>Python</li>
+        <li>Jupyter Notebook</li>
         <li>Biblioteca SpeechRecognition</li>
         <li>Biblioteca PyAudio</li>
         <li>Biblioteca pyttsx3</li>
