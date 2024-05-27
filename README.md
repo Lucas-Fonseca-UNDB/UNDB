@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projetos de Inteligência Artificial</title>
 </head>
 <body>
     <h1>Projetos de Inteligência Artificial</h1>
@@ -29,7 +28,6 @@
     <ul>
         <li>accuracy: 0.92</li>
     </ul>
-
     <h3>PBL-2: Classificador de Imagem</h3>
     <p><strong>Descrição:</strong>Problema de Classificação de Imagens.</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
@@ -45,7 +43,6 @@
     <ul>
         <li>accuracy: 0.92</li>
     </ul>
-
     <h3>PBL-3: Classificador de Mensagem Ofensiva</h3>
     <p><strong>Descrição:</strong>Problema de Classificação de Mensagens Ofensivas e Sentimento</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
@@ -63,7 +60,6 @@
     <ul>
         <li>accuracy: 0.94</li>
     </ul>
-
     <h3>PBL-4: Calculadora usando voz</h3>
     <p><strong>Descrição:</strong>Fazer uma calculadora por voz</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
@@ -77,7 +73,6 @@
     <ul>
         <li>Calculadora funcional por voz que realiza as 4 operações básicas</li>
     </ul>
-
     <h2>Contribuição</h2>
     <p>Sinta-se à vontade para contribuir com melhorias ou novas ideias! Para isso:</p>
     <ol>
@@ -87,7 +82,6 @@
         <li>Envie para o branch original: <code>git push origin minha-nova-feature</code></li>
         <li>Crie um pull request</li>
     </ol>
-
     <h2>Licença</h2>
     <p>Este projeto está licenciado sob a Licença MIT - veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
 </body>
