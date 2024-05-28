@@ -79,7 +79,7 @@
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>A calculadora escuta e executa com as quatro operações básicas e ao final retorna o resultado por voz</li>
+        <li>A calculadora escuta e executa as quatro operações básicas e ao final retorna o resultado por voz</li>
     </ul>
     <h2>Contribuição</h2>
     <p>Sinta-se à vontade para contribuir com melhorias ou novas ideias! Para isso:</p>
