@@ -19,6 +19,7 @@
     <ul>
         <li>Python</li>
         <li>Jupyter Notebook</li>
+        <li>Miniconda</li>
         <li>Biblioteca numpy</li>
         <li>Biblioteca pandas</li>
         <li>Biblioteca seaborn</li>
@@ -27,7 +28,7 @@
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>accuracy: 0.92</li>
+        <li>O modelo é capaz de classificar com acurácia de 91% a qual classe pertence aquele feijão</li>
     </ul>
     <h3>PBL-2: Aplicações de Visão Computacional na Rede Mateus</h3>
     <p><strong>Descrição:</strong>Problema de Classificação de Imagens.</p>
@@ -35,6 +36,7 @@
     <ul>
         <li>Python</li>
         <li>Jupyter Notebook</li>
+        <li>Miniconda</li>
         <li>Biblioteca numpy</li>
         <li>Biblioteca matplotlib</li>
         <li>Biblioteca tensorflow</li>
@@ -43,14 +45,15 @@
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>accuracy: 0.92</li>
+        <li>O modelo consegue classificar com acurácia de 92% as imagens em duas classes: maça ou banana</li>
     </ul>
     <h3>PBL-3:  Aplicações de NLP no combate à violência dentro das escolas</h3>
     <p><strong>Descrição:</strong>Problema de Classificação de Mensagens Ofensivas e Sentimento</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
-        <li>Python</li>
+        <li>Python 3.8.19</li>
         <li>Jupyter Notebook</li>
+        <li>Miniconda</li>
         <li>Biblioteca numpy</li>
         <li>Biblioteca pandas</li>
         <li>Biblioteca seaborn</li>
@@ -61,21 +64,22 @@
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>accuracy: 0.94</li>
+        <li>O modelo consegue classificar com acurácia de 92% as frases em duas categorias: ofensivo ou não ofensivo</li>
     </ul>
     <h3>PBL-4: Reconhecimento de voz para ensino da matemática para pessoas com deficiência visual</h3>
     <p><strong>Descrição:</strong>Fazer uma calculadora por voz</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
-        <li>Python</li>
+        <li>Python 3.8.19</li>
         <li>Jupyter Notebook</li>
+        <li>Miniconda</li>
         <li>Biblioteca SpeechRecognition</li>
         <li>Biblioteca PyAudio</li>
         <li>Biblioteca pyttsx3</li>
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>Calculadora funcional por voz que realiza as 4 operações básicas</li>
+        <li>A calculadora escuta e executa com as quatro operações básicas e ao final retorna o resultado por voz</li>
     </ul>
     <h2>Contribuição</h2>
     <p>Sinta-se à vontade para contribuir com melhorias ou novas ideias! Para isso:</p>
