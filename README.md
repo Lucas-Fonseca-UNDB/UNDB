@@ -14,7 +14,7 @@
     </p>
     <h2>Projetos</h2>
     <h3>PBL-1: Classificação de tipos de feijão usando descritores de forma</h3>
-    <p><strong>Descrição:</strong>Problema de Classificação de Classes.</p>
+    <p><strong>Descrição: </strong>Problema de Classificação de Classes.</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
         <li>Python</li>
@@ -31,7 +31,7 @@
         <li>O modelo é capaz de classificar com acurácia de 91% a qual classe pertence aquele feijão</li>
     </ul>
     <h3>PBL-2: Aplicações de Visão Computacional na Rede Mateus</h3>
-    <p><strong>Descrição:</strong>Problema de Classificação de Imagens.</p>
+    <p><strong>Descrição: </strong>Problema de Classificação de Imagens.</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
         <li>Python</li>
@@ -48,7 +48,7 @@
         <li>O modelo consegue classificar com acurácia de 92% as imagens em duas classes: maça ou banana</li>
     </ul>
     <h3>PBL-3:  Aplicações de NLP no combate à violência dentro das escolas</h3>
-    <p><strong>Descrição:</strong>Problema de Classificação de Mensagens Ofensivas e Sentimento</p>
+    <p><strong>Descrição: </strong>Problema de Classificação de Mensagens Ofensivas e Sentimento</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
         <li>Python 3.8.19</li>
@@ -67,7 +67,7 @@
         <li>O modelo consegue classificar com acurácia de 92% as frases em duas classes: ofensivo ou não ofensivo</li>
     </ul>
     <h3>PBL-4: Reconhecimento de voz para ensino da matemática para pessoas com deficiência visual</h3>
-    <p><strong>Descrição:</strong>Fazer uma calculadora por voz</p>
+    <p><strong>Descrição: </strong>Fazer uma calculadora por voz</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
         <li>Python 3.8.19</li>
