@@ -64,7 +64,7 @@
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>O modelo consegue classificar com acurácia de 92% as frases em duas categorias: ofensivo ou não ofensivo</li>
+        <li>O modelo consegue classificar com acurácia de 92% as frases em duas classes: ofensivo ou não ofensivo</li>
     </ul>
     <h3>PBL-4: Reconhecimento de voz para ensino da matemática para pessoas com deficiência visual</h3>
     <p><strong>Descrição:</strong>Fazer uma calculadora por voz</p>
