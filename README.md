@@ -17,7 +17,7 @@
     <p><strong>Descrição: </strong>Problema de Classificação de Classes.</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
-        <li>Python</li>
+        <li>Python 3.8.19</li>
         <li>Jupyter Notebook</li>
         <li>Miniconda</li>
         <li>Biblioteca numpy</li>
@@ -34,7 +34,7 @@
     <p><strong>Descrição: </strong>Problema de Classificação de Imagens.</p>
     <p><strong>Tecnologias Utilizadas:</strong></p>
     <ul>
-        <li>Python</li>
+        <li>Python 3.8.19</li>
         <li>Jupyter Notebook</li>
         <li>Miniconda</li>
         <li>Biblioteca numpy</li>
