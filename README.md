@@ -28,7 +28,7 @@
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>O modelo é capaz de classificar com acurácia de 91% a qual classe pertence aquele feijão</li>
+        <li>O modelo é capaz de classificar com acurácia de 92% a qual classe pertence aquele feijão</li>
     </ul>
     <h3>PBL-2: Aplicações de Visão Computacional na Rede Mateus</h3>
     <p><strong>Descrição: </strong>Problema de Classificação de Imagens.</p>
@@ -45,7 +45,7 @@
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>O modelo consegue classificar com acurácia de 92% as imagens em duas classes: maça ou banana</li>
+        <li>O modelo consegue classificar com acurácia de 97% as imagens em duas classes: maça ou banana</li>
     </ul>
     <h3>PBL-3:  Aplicações de NLP no combate à violência dentro das escolas</h3>
     <p><strong>Descrição: </strong>Problema de Classificação de Mensagens Ofensivas e Sentimento</p>
@@ -64,7 +64,7 @@
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
-        <li>O modelo consegue classificar com acurácia de 92% as frases em duas classes: ofensivo ou não ofensivo</li>
+        <li>O modelo consegue classificar com acurácia de 94% as frases em duas classes: ofensivo ou não ofensivo</li>
     </ul>
     <h3>PBL-4: Reconhecimento de voz para ensino da matemática para pessoas com deficiência visual</h3>
     <p><strong>Descrição: </strong>Fazer uma calculadora por voz</p>
