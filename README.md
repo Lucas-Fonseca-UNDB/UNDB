@@ -41,7 +41,6 @@
         <li>Biblioteca matplotlib</li>
         <li>Biblioteca tensorflow</li>
         <li>Biblioteca keras</li>
-        <li>Biblioteca warnings</li>
     </ul>
     <p><strong>Resultados:</strong></p>
     <ul>
