@@ -10,7 +10,7 @@
         Este repositório contém os projetos desenvolvidos durante a disciplina de Inteligência Artificial ministrada pelo professor 
         <a href="https://www.linkedin.com/in/giovanni-lucca-ph-d-697513160/">Giovanni Lucca</a> na 
         <a href="https://www.linkedin.com/school/undb/">UNDB</a>. 
-        Cada pasta dentro deste repositório corresponde a um projeto específico, contendo o código-fonte, datasets, relatórios e quaisquer outros recursos utilizados ou produzidos.
+        Cada pasta dentro deste repositório corresponde a um projeto específico, contendo o código-fonte, datasets, relatórios e quaisquer outros recursos utilizados ou produzidos. 
     </p>
     <h2>Projetos</h2>
     <h3>PBL-1: Classificação de tipos de feijão usando descritores de forma</h3>
