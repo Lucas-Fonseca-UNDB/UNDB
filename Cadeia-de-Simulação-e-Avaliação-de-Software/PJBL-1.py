@@ -4,7 +4,7 @@ import math
 def main():
     st.title("Simulador de Filas")
     st.subheader("Cadeira de Simulação e Avaliação de Software - 8° período")
-    st.write("Prof.Dr. ALISSON JORJE SILVA ALMEIDA")
+    st.write("Prof.Dr. ALISSON JORGE SILVA ALMEIDA")
     st.write("Grupo: Lucas Fonseca, Luis Rodrigo, Pedro Arthur, Osvaldo Saboia, Diogo Soares")
     #st.markdown("---")
 
