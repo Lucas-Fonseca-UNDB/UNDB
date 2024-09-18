@@ -49,7 +49,7 @@ def detect_emotion(image):
                     
                     # Adicionar texto à imagem
                     image_pil = Image.fromarray(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
-                    st.image(image_pil)
+                    #st.image(image_pil)
                     st.subheader(f"Emoção detectada: {emotion_pt}")
             else:
                 raise ValueError("Nenhum rosto detectado na imagem.")
