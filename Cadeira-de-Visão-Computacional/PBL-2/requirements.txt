@@ -5,3 +5,5 @@ opencv-python
 numpy
 deepface
 matplotlib
+keras
+tensorflow
