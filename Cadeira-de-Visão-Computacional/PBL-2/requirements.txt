@@ -3,5 +3,3 @@ deepface
 opencv-python-headless
 Pillow
 numpy
-keras==2.4.3
-tensorflow
