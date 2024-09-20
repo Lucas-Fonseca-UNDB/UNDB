@@ -3,7 +3,7 @@ opencv-python-headless
 Pillow
 opencv-python
 numpy
-deepface
+from deepface import DeepFace
 matplotlib
 keras
 tensorflow
