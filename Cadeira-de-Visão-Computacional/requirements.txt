@@ -1,6 +1,0 @@
-streamlit
-opencv-python
-numpy
-deepface
-Pillow
-matplotlib
