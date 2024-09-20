@@ -1,10 +1,7 @@
 streamlit
-cv2
+deepface
 opencv-python-headless
 Pillow
-opencv-python
 numpy
-deepface
-matplotlib
-keras
+keras==2.4.3
 tensorflow
