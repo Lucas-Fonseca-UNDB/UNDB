@@ -45,7 +45,7 @@ if 'capture_image' not in st.session_state:
 
 st.sidebar.title('Projeto de Visão Computacional')
 st.sidebar.subheader('Detector de Emoções em Tempo Real')
-st.sidebar.write('Prof.Dr.Giovanni Lucca')
+st.sidebar.write('Giovanni Lucca, PhD, Professor')
 st.sidebar.write('Grupo: Lucas Fonseca, Luis Rodrigo, Diogo Soares, Pedro Arthur, Osvaldo Saboia')
 
 # Botão para abrir a câmera
