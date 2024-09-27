@@ -2,14 +2,14 @@ import streamlit as st
 import math
 
 def main():
-    st.title("Simulador de Filas")
+    st.title("Simulador de Filas M/M/1")
     st.subheader("Cadeira de Simulação e Avaliação de Software - 8° período")
     st.write("Prof.Dr. ALISSON JORGE SILVA ALMEIDA")
     st.write("Grupo: Lucas Fonseca, Luis Rodrigo, Pedro Arthur, Osvaldo Saboia, Diogo Soares")
     #st.markdown("---")
 
     # Coleta de entradas com limitações
-    servidor = st.number_input("Digite a quantidade de atendentes:", min_value=1, max_value=999, value=1, step=1)
+    servidor = 1
     lambda_value = st.number_input("Digite a taxa de chegada de clientes:", min_value=1, max_value=999, step=1)
     unidade_lambda_value = st.selectbox("Escolha a unidade para taxa de chegada:", ["Hora", "Minuto"])
     mu = st.number_input("Digite a taxa de atendimentos:", min_value=1, max_value=999, step=1)
