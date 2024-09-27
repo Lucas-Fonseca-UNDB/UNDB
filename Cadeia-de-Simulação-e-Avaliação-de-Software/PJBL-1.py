@@ -27,6 +27,7 @@ def main():
     st.subheader("Cálculos")
 
     calculo_opcoes = [
+        "Taxa de ocupação",
         "Probabilidade de ter fila",
         "Probabilidade de ter mais clientes no sistema",
         "Número médio de clientes no sistema",
@@ -58,6 +59,9 @@ def main():
         elif calculo_selecionado == "Tempo médio gasto no sistema por cliente":
             resultado = (1 / (mu - lambda_value)) * 60
             unidade = " Minutos"
+        elif calculo_selecionado == "Taxa de ocupação":
+            resultado = ρ
+            unidade = "%"
 
         if resultado is not None:
             st.markdown("---")
