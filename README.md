@@ -1,45 +1,61 @@
-<h3 align="center">
-  Software Engineering 
-</h3>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-<div align='center'>
+<h1>Repositório Institucional - Universidade de Ensino Superior Dom Bosco (UNDB)</h1>
 
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Fonseca-UNDB&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fonseca-UNDB&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-</div>
+<p>Bem-vindo ao meu repositório institucional! Aqui você encontrará uma coleção de trabalhos e projetos desenvolvidos durante o meu curso de Engenharia de Software na <a href="https://www.linkedin.com/school/undb/">Universidade de Ensino Superior Dom Bosco (UNDB)</a>. Este repositório é dedicado a armazenar e compartilhar todo o conhecimento adquirido ao longo da minha jornada acadêmica.</p>
+<!--
+<h2>Estrutura do Repositório</h2>
 
-</div>
+<p>Este repositório está organizado por semestres e disciplinas, facilitando a navegação e a localização dos trabalhos específicos. Cada pasta contém os arquivos relacionados ao respectivo projeto ou atividade acadêmica.</p>
 
-<hr>
+<pre>
+/
+├── Semestre_1/
+│   ├── Disciplina_1/
+│   │   ├── Trabalho_1/
+│   │   ├── Projeto_1/
+│   └── Disciplina_2/
+├── Semestre_2/
+│   ├── Disciplina_1/
+│   ├── Disciplina_2/
+└── Outros/
+    ├── Atividades_Extras/
+    └── Certificados/
+</pre>
 
-## &nbsp;My Stack
+<h2>Projetos em Destaque</h2>
 
-<img src="https://skillicons.dev/icons?i=vscode,anaconda,py,sklearn,tensorflow,opencv,git,github,aws,mysql,supabase,windows,linux&theme=dark" />
-<hr>
+<ul>
+    <li><strong><a href="link_do_projeto">Projeto X</a></strong>: Descrição breve do projeto.</li>
+    <li><strong><a href="link_do_trabalho">Trabalho Y</a></strong>: Descrição breve do trabalho.</li>
+    <li><strong><a href="link_da_atividade">Atividade Z</a></strong>: Descrição breve da atividade.</li>
+</ul>
+-->
+<h2>Tecnologias Utilizadas</h2>
 
-## About me
+<p>Este repositório contém trabalhos que utilizam diversas tecnologias e ferramentas, incluindo:</p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Lucas Fonseca, and I am an undergraduate student in Software Engineering. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to become a Data Scientist.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is Python.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
+<ul>
+    <li>Linguagens de Programação: Python, Java</li>
+    <li>Ferramentas de Desenvolvimento: Git, GitHub</li>
+    <li>Tecnologias Web: HTML, CSS, JavaScript</li>
+    <li>Banco de Dados: SQL, MySQL</li>
+    <li>Ambientes de Desenvolvimento: VScode, IntelliJ IDEA, Jupyter notebook, Notepad++</li>
+</ul>
+<!--
+<h2>Como Contribuir</h2>
 
-<hr>
+<p>Este repositório é de uso pessoal para fins acadêmicos, mas estou sempre aberto a feedbacks e sugestões. Se você encontrar algum erro ou tiver alguma sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
+-->
+<h2>Contato</h2>
 
-<h3>Contact Me</h3>
-<div align="left">
-<p>
-<a href="mailto:lucasfonseca210@gmail.com"><img src="https://img.shields.io/badge/-email-0D1117?style=for-the-badge&logo=gmail&logoColor=6ED2B6&color=0D1117" alt="E-mail"></a>
-<a href="https://www.linkedin.com/in/lucasfonseca-dev"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6ED2B6&color=0D1117" alt="LinkedIn"></a>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-  <!-- Cobrinha gerada por [Platane/snk](https://github.com/Platane/snk) -->
-</div>
+<p>Se você tiver alguma dúvida ou quiser discutir algum dos projetos, pode me contatar através do linkedin: <a href="https://www.linkedin.com/in/lucasfonseca-dev/">lucasfonseca-dev</a>.</p>
+
+</body>
+</html>
